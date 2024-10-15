@@ -113,14 +113,30 @@
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon20.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\forward.imageset\Contents.json" />
-    <ImageAsset Include="Assets.xcassets\forward.imageset\forward.png" />
-    <ImageAsset Include="Assets.xcassets\forward.imageset\forward-1.png" />
-    <ImageAsset Include="Assets.xcassets\forward.imageset\forward-2.png" />
-    <ImageAsset Include="Assets.xcassets\payment.imageset\Contents.json" />
-    <ImageAsset Include="Assets.xcassets\payment.imageset\payment.png" />
-    <ImageAsset Include="Assets.xcassets\payment.imageset\payment-1.png" />
-    <ImageAsset Include="Assets.xcassets\payment.imageset\payment-2.png" />
+    <ImageAsset Include="Assets.xcassets\forward.imageset\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\forward.imageset\forward.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\forward.imageset\forward-1.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\forward.imageset\forward-2.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\payment.imageset\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\payment.imageset\payment.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\payment.imageset\payment-1.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\payment.imageset\payment-2.png">
+      <Visible>false</Visible>
+    </ImageAsset>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
